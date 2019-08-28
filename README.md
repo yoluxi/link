@@ -8,7 +8,7 @@
 [MisterBooo/LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) 图形化解释算法
 
 # React 
-
+[gopavasanth/video-cut-tool-front-end](https://github.com/gopavasanth/video-cut-tool-front-end) 视频裁剪工具
 # Vue
 
 # Blog
